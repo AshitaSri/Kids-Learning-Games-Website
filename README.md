@@ -39,7 +39,7 @@ The client application will be accessible at http://localhost:3000.
 
 3. Start the server with the command npm start.
 
-The server will be running at the specified endpoint.
+The server will be running at the [localhost:5000](http://localhost:5000/)
 
 ## About the Project
 
