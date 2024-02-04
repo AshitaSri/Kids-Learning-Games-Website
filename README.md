@@ -18,7 +18,7 @@ Before you begin, ensure that you have the following installed on your machine:
 Clone this repository to your local machine using the following command:
 
 
-git clone https://github.com/your-username/kids-learning-games.git
+git clone [https://github.com/your-username/kids-learning-games.git](https://github.com/AshitaSri/TLN-kids.git)
 
 
 ### Client Setup
