@@ -1,6 +1,7 @@
 # Kids Learning Games Website
 
 Welcome to the Kids Learning Games website repository! This project aims to provide an interactive platform for children to play and learn simultaneously.
+Here's a demo - https://www.loom.com/share/4a6ecbf0194a47e5bc092f0b9627556f?sid=fc5ebe3a-cb76-48f4-930b-f41327466c1d
 
 ## Getting Started
 
@@ -48,10 +49,7 @@ The server will be running at the [localhost:5000](http://localhost:5000/)
 
 This website is designed to offer educational games for children, providing a fun and engaging way for them to learn various subjects.
 
-## Additional Information
-
-- Customize configurations and settings in the respective client-1 and server directories.
-- Ensure that both the client and server run concurrently for a seamless experience.
+hosting in progress- https://kidsplays.vercel.app/
 
 Contributer-
 Ashita 
