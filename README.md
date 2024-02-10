@@ -1,3 +1,5 @@
+
+
 # Kids Learning Games Website
 
 Welcome to the Kids Learning Games website repository! This project aims to provide an interactive platform for children to play and learn simultaneously.
@@ -17,25 +19,13 @@ Before you begin, ensure that you have the following installed on your machine:
 
 ### Clone the Repository
 
-Clone this repository to your local machine using the following command:
-
-
 git clone [https://github.com/your-username/kids-learning-games.git](https://github.com/AshitaSri/TLN-kids.git)
 
 
-### Client Setup
-
-1. Navigate to the client-1 directory.
-
-2. Install dependencies using npm install.
-
-3. Start the client with the command npm start.
-
-The client application will be accessible at http://localhost:3000.
 
 ### Server Setup
 
-1. Navigate to the server directory.
+1. cd server/
 
 2. Install dependencies using npm install.
 
@@ -44,7 +34,7 @@ The client application will be accessible at http://localhost:3000.
 The server will be running at the [localhost:5000](http://localhost:5000/)
 
 
-- ##the website is running on localhost:5000
+## The website is running on localhost:5000
 
 ## About the Project
 
